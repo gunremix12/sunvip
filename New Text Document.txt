@@ -1,0 +1,1 @@
+lệnh chạy bot = node bot ; node add_chat (chạy trước 2p rồi mới chạy server)
